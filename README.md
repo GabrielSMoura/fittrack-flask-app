@@ -1,4 +1,4 @@
-# 🏋️‍♂️ FitTrack Pro —    Personal  Fitness & Nutrition Tracker
+# 🏋️‍♂️ FitTrack Pro —     Personal  Fitness & Nutrition Tracker
 
 O **FitTrack Pro** é uma aplicação web completa desenvolvida com **Flask** e **SQLite**  projetada para quem deseja gerenciar rotinas de treino, registrar dietas, acompanhar evolução de carga e recordes pessoais (PRs) de forma 100% gratuita e individual.
 
